@@ -1,4 +1,4 @@
-name: CI - Build macOS Application
+name: CI - Build Application
 on:
   push:
     branches:
